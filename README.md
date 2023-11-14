@@ -1,6 +1,8 @@
-<h2 align="center">Hi👋! I'm Umar</h2>
+<h2 align="center">Hi! I'm Umar</h2>
 
 ###
+
+<br/>
 
 <h4 align="center">Technologies & Languages</h4>
 
@@ -34,7 +36,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ufarqrobbany&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
+<br/>
+
 ###
+
 
 <h4 align="center">Social Media</h4>
 
@@ -56,6 +61,8 @@
   <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="medium logo"  />
 </div>
 
+<br/>
+
 ###
 
 <h4 align="center">Stats</h4>
@@ -66,9 +73,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ufarqrobbany&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="130" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=ufarqrobbany&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="130" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ufarqrobbany/ufarqrobbany/output/snake.svg" alt="Snake animation" />
 
 ###
