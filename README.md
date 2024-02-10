@@ -41,7 +41,7 @@
 ###
 
 
-<h4 align="center">Social Media</h4>
+<h4 align="center">Let's Connect</h4>
 
 ###
 
