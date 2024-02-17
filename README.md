@@ -38,5 +38,7 @@
 
 ###
 
-<img align="center" src="https://profile-counter.glitch.me/ufarqrobbany/count.svg?"  />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ufarqrobbany/count.svg?"  />
+</div>
 
