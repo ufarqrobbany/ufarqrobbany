@@ -34,10 +34,5 @@
 
 ###
 
-<img align="left" src="https://profile-counter.glitch.me/ufarqrobbany/count.svg?"  />
+<img align="center" src="https://profile-counter.glitch.me/ufarqrobbany/count.svg?"  />
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ufarqrobbany/ufarqrobbany/output/snake.svg" alt="Snake animation" />
