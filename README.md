@@ -1,7 +1,3 @@
-<h1 align="center">Hi! I'm Umar</h1>
-
-###
-
 <h4 align="center">Let's Connect</h4>
 
 ###
