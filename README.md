@@ -28,11 +28,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ufarqrobbany&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="130" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ufarqrobbany&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="130" alt="streak graph"  />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ufarqrobbany&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="120" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=ufarqrobbany&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="120" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=ufarqrobbany&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="120" alt="streak graph"  />
