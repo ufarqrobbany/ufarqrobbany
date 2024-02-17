@@ -34,13 +34,5 @@
 
 ###
 
-<h4 align="center">Profile Views</h4>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ufarqrobbany/count.svg?"  />
-</div>
-
-![](https://komarev.com/ghpvc/?username=ufarqrobbany)
+![](https://komarev.com/ghpvc/?username=ufarqrobbany&style=for-the-badge&color=blue)
 
