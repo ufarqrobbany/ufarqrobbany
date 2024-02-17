@@ -34,5 +34,9 @@
 
 ###
 
+<h4 align="center">Profile Views</h4>
+
+###
+
 <img align="center" src="https://profile-counter.glitch.me/ufarqrobbany/count.svg?"  />
 
