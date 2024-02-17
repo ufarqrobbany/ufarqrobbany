@@ -34,8 +34,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ufarqrobbany&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+<img align="left" src="https://profile-counter.glitch.me/ufarqrobbany/count.svg?"  />
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ufarqrobbany/ufarqrobbany/output/snake.svg" alt="Snake animation" />
