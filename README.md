@@ -36,5 +36,5 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=ufarqrobbany&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=ufarqrobbany&style=for-the-badge&color=blue&abbreviated=true&base=400)
 
