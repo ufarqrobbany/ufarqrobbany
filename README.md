@@ -22,11 +22,7 @@ Saya telah berkontibusi pada berbagai proyek yang melibatkan pengembangan websit
 - Aplikasi manajemen keuangan - Duidku
 - dll
 
-<br/>
-
-<h4 align="center">Let's Connect</h4>
-
-###
+## Let's Connect
 
 <div align="center" style="text-decoration: none">
   <a href="https://www.behance.net/ufarq" target="_blank">
@@ -58,11 +54,7 @@ Saya telah berkontibusi pada berbagai proyek yang melibatkan pengembangan websit
 
 <br/>
 
-###
-
-<h4 align="center">Analytics</h4>
-
-###
+## Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ufarqrobbany&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="120" alt="languages graph"  />
