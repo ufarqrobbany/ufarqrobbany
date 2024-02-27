@@ -1,4 +1,4 @@
-<img src="https://github.com/ufarqrobbany/ufarqrobbany/blob/main/ProfilGithub.png.png" alt="profil" />
+<img src="https://github.com/ufarqrobbany/ufarqrobbany/blob/main/ProfilGithub.png" alt="profil" />
 
 ## Tentang Saya
 Selamat datang di profil GitHub saya! Saya seorang mahasiswa jurusan Teknik Informatika di Politeknik Negeri Bandung. Saya sedang menekuni bidang **Pengembangan Webite**.
