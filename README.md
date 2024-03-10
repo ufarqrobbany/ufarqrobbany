@@ -1,29 +1,6 @@
 <img src="https://github.com/ufarqrobbany/ufarqrobbany/blob/main/ProfilGithub.png" alt="profil" />
 
-# Tentang Saya 👋
-Selamat datang di profil GitHub saya! Saya seorang mahasiswa jurusan Teknik Informatika di Politeknik Negeri Bandung yang tengah fokus pada **Pengembangan Web**.
-
-## Teknologi yang Dikuasai 🚀
-- **Front End Development:** HTML, CSS, JS, Bootstrap, Tailwind, ReactJS
-- **Back End Development:** PHP, Codeigniter
-- **Mobile App Development:** Flutter
-- **Database:** MySQL
-- **General-Purpose Programming Languages:** C, C++, Python, Java 
-
-## Pendidikan 📚
-- SMKS Islamiyah Ciawi Tasikmalaya (2020-2023)
-- Politeknik Negeri Bandung (2023-sekarang)
-
-## Proyek dan Kontribusi 🛠️
-Saya telah berkontribusi pada berbagai proyek yang mencakup pengembangan website, game, dan aplikasi mobile. Beberapa highlight termasuk:
-- Website E-Commerce Bazara.id
-- Website Landing Page MTFC Indramayu
-- Tugas Besar DDP - Tic Tac Toe
-- Aplikasi manajemen keuangan - Duidku
-- dan banyak lagi!
 ## Let's Connect
-
-Email: [faruqrobbany@gmail.com](mailto:faruqrobbany@gmail.com)
 
 <div align="center" style="text-decoration: none">
   <a href="https://www.behance.net/ufarq" target="_blank">
