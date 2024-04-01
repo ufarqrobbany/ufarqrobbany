@@ -1,5 +1,10 @@
 <img src="https://github.com/ufarqrobbany/ufarqrobbany/blob/main/ProfilGithub.png" alt="profil" />
 
+## My Contributions
+- [Auto Absen Akademik Polban](https://github.com/FredyKurniadi/autoAbsen) : Aplikasi desktop menggunakan Python, Tkinter, dan Selenium untuk membantu mahasiswa melakukan absensi otomatis sesuai dengan jadwal di website akademik POLBAN.
+
+<br/>
+
 ## Let's Connect
 
 <div align="center" style="text-decoration: none">
