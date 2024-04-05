@@ -5,6 +5,12 @@
 
 <br/>
 
+## Competitive Programming Solutions
+- [Kattis](https://github.com/ufarqrobbany/kattis_c) : C
+- [LeetCode](https://github.com/ufarqrobbany/leetcode_solutions) : Python & Javascript
+
+<br/>
+
 ## Let's Connect
 
 <div align="center" style="text-decoration: none">
