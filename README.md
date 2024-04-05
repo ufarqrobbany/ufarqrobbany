@@ -7,7 +7,7 @@
 
 ## Competitive Programming Solutions
 - [Kattis](https://github.com/ufarqrobbany/kattis_c) : C
-- [LeetCode](https://github.com/ufarqrobbany/leetcode_solutions) : Python & Javascript
+- [LeetCode](https://github.com/ufarqrobbany/leetcode_solutions) : Javascript
 
 <br/>
 
