@@ -1,13 +1,11 @@
 <img src="https://github.com/ufarqrobbany/ufarqrobbany/blob/main/banner.png" alt="profil" />
 
-## My Contributions
-- [Auto Absen Akademik Polban](https://github.com/FredyKurniadi/autoAbsen) : Aplikasi desktop menggunakan Python, Tkinter, dan Selenium untuk membantu mahasiswa melakukan absensi otomatis sesuai dengan jadwal di website akademik POLBAN.
-
 <br/>
 
 ## Competitive Programming Solutions
 - [Kattis](https://github.com/ufarqrobbany/kattis_c) : C
 - [LeetCode](https://github.com/ufarqrobbany/leetcode_solutions) : Javascript, MySQL
+- [TLX-Toki] (https://github.com/ufarqrobbany/tlx-toki-solutions) : C++
 
 <br/>
 
