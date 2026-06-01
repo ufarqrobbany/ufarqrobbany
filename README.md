@@ -1,14 +1,5 @@
 <img src="https://github.com/ufarqrobbany/ufarqrobbany/blob/main/banner.png" alt="profil" />
 
-<br/>
-
-## Competitive Programming Solutions
-- [Kattis](https://github.com/ufarqrobbany/kattis_c) : C
-- [LeetCode](https://github.com/ufarqrobbany/leetcode_solutions) : Javascript, MySQL
-- [TLX-Toki](https://github.com/ufarqrobbany/tlx-toki-solutions) : C++
-
-<br/>
-
 ## Let's Connect
 
 <div align="center" style="text-decoration: none">
